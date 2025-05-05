@@ -7,5 +7,5 @@ export default defineConfig({
   darkMode: 'class',
   plugins: [react(),
   tailwindcss()],
-  base: 'https://github.com/likhithsabbarapu/https---github.com-likhithsabbarapu-myportfolio.git',
+  base: '/myportfoliols/',
 })
